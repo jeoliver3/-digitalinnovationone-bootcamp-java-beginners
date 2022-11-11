@@ -5,8 +5,11 @@ https://github.com/digitalinnovationone
 
 <h2>Bootcamp Java para iniciantes </h2>
 <h3>Conteúdo</h3>
+
+![iconjava](https://user-images.githubusercontent.com/106696811/195846066-fb7b2771-97bc-4bd8-97f2-479c16741605.png)
+
 <p>
-  
+
 - Anatomia das classes
 - Variáveis/ Operadores/ Métodos
 - Lógica Condicional / Controle de fluxos
@@ -29,7 +32,6 @@ https://github.com/digitalinnovationone
 
 
 
-![iconjava](https://user-images.githubusercontent.com/106696811/195846066-fb7b2771-97bc-4bd8-97f2-479c16741605.png)
 
 
 
