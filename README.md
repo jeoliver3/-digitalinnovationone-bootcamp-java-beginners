@@ -3,14 +3,12 @@ www.dio.me
 
 https://github.com/digitalinnovationone
 
-<h2>Bootcamp Java para iniciantes - Em andamento ...</h2>
+<h2>Bootcamp Java para iniciantes </h2>
 <h3>Conteúdo</h3>
 <p>
   
 - Anatomia das classes
-- Variáveis
-- Operadores
-- Métodos
+- Variáveis/ Operadores/ Métodos
 - Lógica Condicional / Controle de fluxos
 - Boas práticas
 - Estruturas de Repetição
@@ -18,7 +16,15 @@ https://github.com/digitalinnovationone
 - Desafios de Código
 - Herança
 - Interface
-- ArrayList
+- Collections
+- Tratamento de exceções
+- Protocolos de Comunicação da Internet
+- Maven
+- Spring
+- API Rest com Spring Web
+- Design Patterns
+- Desafios de código - intermediário
+- Introdução à cultura ágil - Scrum
 </p>
 
 
