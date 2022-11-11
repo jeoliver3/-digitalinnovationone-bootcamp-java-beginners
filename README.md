@@ -3,7 +3,7 @@ www.dio.me
 
 https://github.com/digitalinnovationone
 
-<h2>Curso Java para iniciantes - Em andamento ...</h2>
+<h2>Bootcamp Java para iniciantes - Em andamento ...</h2>
 <h3>Conteúdo</h3>
 <p>
   
